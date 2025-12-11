@@ -1,0 +1,24 @@
+2025-12-10 21:28:25,302 - Bob_5001 - INFO - Starting chat application for Bob on port 5001
+2025-12-10 21:28:25,304 - Bob_5001 - INFO - Network started on port 5001
+2025-12-10 21:28:25,304 - Bob_5001 - INFO - Device discovery started
+2025-12-10 21:28:26,303 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 21:28:26,303 - Bob_5001 - INFO - Device found: Alice
+2025-12-10 21:28:26,305 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:28:26,306 - Bob_5001 - INFO - Device found: Charlie
+2025-12-10 21:28:26,412 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:28:26,412 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:28:39,166 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:28:41,303 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 21:28:41,306 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:28:41,419 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:28:41,419 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:28:56,303 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 21:28:56,306 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:28:56,413 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:28:56,413 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:29:03,405 - Bob_5001 - DEBUG - Private to Charlie_5002: 12341234
+2025-12-10 21:29:11,304 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 21:29:11,306 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:29:11,418 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:29:11,418 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:29:17,048 - Bob_5001 - INFO - Closing application

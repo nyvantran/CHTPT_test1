@@ -1,0 +1,6 @@
+2025-12-11 20:45:42,129 - Charlie_5002 - INFO - Starting Charlie on port 5002
+2025-12-11 20:45:42,132 - Charlie_5002 - INFO - Network started on port 5002
+2025-12-11 20:45:42,133 - Charlie_5002 - INFO - Device discovery started
+2025-12-11 20:45:43,234 - Charlie_5002 - INFO - Device found: Alice
+2025-12-11 20:45:43,234 - Charlie_5002 - INFO - Device found: Bob
+2025-12-11 20:45:45,269 - Charlie_5002 - INFO - Device found: Diana

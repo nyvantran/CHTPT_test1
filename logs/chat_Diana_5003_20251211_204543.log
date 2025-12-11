@@ -1,0 +1,6 @@
+2025-12-11 20:45:44,264 - Diana_5003 - INFO - Starting Diana on port 5003
+2025-12-11 20:45:44,267 - Diana_5003 - INFO - Network started on port 5003
+2025-12-11 20:45:44,267 - Diana_5003 - INFO - Device discovery started
+2025-12-11 20:45:45,380 - Diana_5003 - INFO - Device found: Charlie
+2025-12-11 20:45:45,380 - Diana_5003 - INFO - Device found: Bob
+2025-12-11 20:45:45,402 - Diana_5003 - INFO - Device found: Alice

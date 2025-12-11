@@ -1,0 +1,5 @@
+2025-12-10 21:15:07,108 - David_5015 - INFO - Starting chat application for David on port 5015
+2025-12-10 21:15:07,110 - David_5015 - INFO - Network started on port 5015
+2025-12-10 21:15:07,110 - David_5015 - INFO - Device discovery started
+2025-12-10 21:15:07,111 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:15:17,111 - David_5015 - DEBUG - Sent: discover

@@ -1,0 +1,9 @@
+2025-12-10 21:18:31,002 - Charlie_5010 - INFO - Starting chat application for Charlie on port 5010
+2025-12-10 21:18:31,004 - Charlie_5010 - INFO - Network started on port 5010
+2025-12-10 21:18:31,004 - Charlie_5010 - INFO - Device discovery started
+2025-12-10 21:18:31,005 - Charlie_5010 - DEBUG - Sent: discover
+2025-12-10 21:18:31,005 - Charlie_5010 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:18:31,005 - Charlie_5010 - INFO - Device found: Alice
+2025-12-10 21:18:31,130 - Charlie_5010 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:18:31,130 - Charlie_5010 - INFO - Device found: Bob
+2025-12-10 21:18:41,004 - Charlie_5010 - DEBUG - Sent: discover

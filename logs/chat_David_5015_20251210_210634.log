@@ -1,0 +1,59 @@
+2025-12-10 21:06:35,355 - David_5015 - INFO - Starting chat application for David on port 5015
+2025-12-10 21:06:35,357 - David_5015 - INFO - Network started on port 5015
+2025-12-10 21:06:35,357 - David_5015 - INFO - Device discovery started
+2025-12-10 21:06:35,357 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:06:35,359 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:06:35,359 - David_5015 - INFO - Device found: Alice
+2025-12-10 21:06:35,479 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:06:35,479 - David_5015 - INFO - Device found: Bob
+2025-12-10 21:06:40,358 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:06:40,359 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:06:40,360 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:06:45,359 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:06:45,359 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:06:45,360 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:06:50,359 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:06:50,359 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:06:50,360 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:06:55,360 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:06:55,360 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:06:55,361 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:00,360 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:00,360 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:00,362 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:05,361 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:05,361 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:05,362 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:10,361 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:10,361 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:10,362 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:15,361 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:15,361 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:15,363 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:20,362 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:20,362 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:20,363 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:25,362 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:25,363 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:25,363 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:30,363 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:30,363 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:30,364 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:35,364 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:35,364 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:35,365 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:40,364 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:40,364 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:40,365 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:45,365 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:45,365 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:45,366 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:50,365 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:50,365 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:50,366 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:07:55,366 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:07:55,366 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:07:55,367 - David_5015 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:08:00,366 - David_5015 - DEBUG - Sent: discover
+2025-12-10 21:08:00,366 - David_5015 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:08:00,366 - David_5015 - DEBUG - Received from Bob: discovery_response

@@ -1,0 +1,82 @@
+2025-12-10 20:51:34,650 - Eve_5004 - INFO - Starting chat application for Eve on port 5004
+2025-12-10 20:51:34,652 - Eve_5004 - INFO - Network started on port 5004
+2025-12-10 20:51:34,653 - Eve_5004 - INFO - Device discovery started
+2025-12-10 20:51:34,653 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:34,654 - Eve_5004 - INFO - Device found: Alice
+2025-12-10 20:51:34,654 - Eve_5004 - DEBUG - Sent: discover
+2025-12-10 20:51:34,689 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:34,690 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:34,690 - Eve_5004 - INFO - Device found: Bob
+2025-12-10 20:51:34,693 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:34,695 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:34,695 - Eve_5004 - INFO - Device found: Charlie
+2025-12-10 20:51:34,698 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:34,699 - Eve_5004 - DEBUG - Received from David: discovery_response
+2025-12-10 20:51:34,699 - Eve_5004 - INFO - Device found: David
+2025-12-10 20:51:34,702 - Eve_5004 - DEBUG - Received from David: discovery_response
+2025-12-10 20:51:34,702 - Eve_5004 - DEBUG - Received from David: discovery_response
+2025-12-10 20:51:34,705 - Eve_5004 - DEBUG - Received from David: discovery_response
+2025-12-10 20:51:34,705 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:34,714 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:34,714 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:34,715 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:34,715 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:34,715 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:37,645 - Eve_5004 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:37,647 - Eve_5004 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:38,197 - Eve_5004 - DEBUG - Received from Bob: discovery
+2025-12-10 20:51:38,198 - Eve_5004 - DEBUG - Received from Bob: discovery
+2025-12-10 20:51:38,906 - Eve_5004 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:51:38,909 - Eve_5004 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:51:39,227 - Eve_5004 - DEBUG - Received from David: discovery
+2025-12-10 20:51:39,231 - Eve_5004 - DEBUG - Received from David: discovery
+2025-12-10 20:51:39,654 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:39,654 - Eve_5004 - DEBUG - Sent: discover
+2025-12-10 20:51:39,655 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:39,656 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:39,657 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:39,657 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:39,659 - Eve_5004 - DEBUG - Received from David: discovery_response
+2025-12-10 20:51:39,659 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:39,660 - Eve_5004 - DEBUG - Received from David: discovery_response
+2025-12-10 20:51:39,661 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:39,662 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:39,662 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:39,663 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:39,664 - Eve_5004 - DEBUG - Received from David: discovery_response
+2025-12-10 20:51:39,664 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:39,665 - Eve_5004 - DEBUG - Received from David: discovery_response
+2025-12-10 20:51:39,665 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:42,646 - Eve_5004 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:42,647 - Eve_5004 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:43,198 - Eve_5004 - DEBUG - Received from Bob: discovery
+2025-12-10 20:51:43,199 - Eve_5004 - DEBUG - Received from Bob: discovery
+2025-12-10 20:51:43,907 - Eve_5004 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:51:43,909 - Eve_5004 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:51:44,228 - Eve_5004 - DEBUG - Received from David: discovery
+2025-12-10 20:51:44,229 - Eve_5004 - DEBUG - Received from David: discovery
+2025-12-10 20:51:44,655 - Eve_5004 - DEBUG - Sent: discover
+2025-12-10 20:51:44,655 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:44,657 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:44,658 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:44,658 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:44,659 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:44,660 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:44,660 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:44,661 - Eve_5004 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:44,661 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:44,661 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:44,662 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:44,662 - Eve_5004 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:47,646 - Eve_5004 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:47,648 - Eve_5004 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:48,197 - Eve_5004 - DEBUG - Received from Bob: discovery
+2025-12-10 20:51:48,199 - Eve_5004 - DEBUG - Received from Bob: discovery
+2025-12-10 20:51:49,655 - Eve_5004 - DEBUG - Sent: discover
+2025-12-10 20:51:49,655 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:49,655 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:49,661 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:49,662 - Eve_5004 - DEBUG - Received from Bob: discovery_response
+2025-12-10 20:51:52,070 - Eve_5004 - INFO - Closing application
+2025-12-10 20:51:52,070 - Eve_5004 - INFO - Device discovery stopped
+2025-12-10 20:51:52,070 - Eve_5004 - INFO - Network stopped

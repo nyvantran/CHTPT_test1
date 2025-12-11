@@ -1,0 +1,63 @@
+2025-12-10 21:18:29,043 - Alice_5000 - INFO - Starting chat application for Alice on port 5000
+2025-12-10 21:18:29,046 - Alice_5000 - INFO - Network started on port 5000
+2025-12-10 21:18:29,046 - Alice_5000 - INFO - Device discovery started
+2025-12-10 21:18:29,047 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:18:30,102 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:18:30,102 - Alice_5000 - INFO - Device found: Bob
+2025-12-10 21:18:31,005 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:18:31,005 - Alice_5000 - INFO - Device found: Charlie
+2025-12-10 21:18:39,047 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:18:49,047 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:18:59,048 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:19:09,048 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:19:09,049 - Alice_5000 - INFO - Device lost: Bob
+2025-12-10 21:19:19,048 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:19:29,057 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:19:39,057 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:19:49,058 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:19:59,058 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:20:09,059 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:20:19,059 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:20:29,059 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:20:39,060 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:20:49,060 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:20:59,062 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:21:09,061 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:21:19,062 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:21:29,062 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:21:39,063 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:21:49,064 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:21:59,064 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:22:09,064 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:22:19,065 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:22:29,065 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:22:39,066 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:22:49,066 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:22:59,066 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:23:09,067 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:23:19,067 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:23:29,068 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:23:39,068 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:23:49,068 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:23:59,069 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:24:09,069 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:24:19,070 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:24:29,070 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:24:39,071 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:24:49,071 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:24:59,072 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:25:09,072 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:25:19,073 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:25:29,073 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:25:39,074 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:25:49,075 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:25:59,075 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:26:09,076 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:26:19,076 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:26:29,077 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:26:39,077 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:26:49,078 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:26:59,078 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:27:09,079 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:27:19,079 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:27:29,080 - Alice_5000 - DEBUG - Sent: discover

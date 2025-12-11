@@ -1,0 +1,14 @@
+2025-12-10 21:36:41,553 - Alice_5000 - INFO - Starting Alice on port 5000
+2025-12-10 21:36:41,555 - Alice_5000 - INFO - Network started on port 5000
+2025-12-10 21:36:41,556 - Alice_5000 - INFO - Device discovery started
+2025-12-10 21:36:44,756 - Alice_5000 - INFO - Device found: Bob
+2025-12-10 21:36:46,698 - Alice_5000 - INFO - Device found: Charlie
+2025-12-10 21:36:48,559 - Alice_5000 - INFO - Device found: Diana
+2025-12-10 21:37:57,838 - Alice_5000 - DEBUG - Sent group info to Bob_5001 at port 5001
+2025-12-10 21:37:57,838 - Alice_5000 - DEBUG - Sent group info to Charlie_5002 at port 5002
+2025-12-10 21:37:57,838 - Alice_5000 - INFO - Created group: 1234 with 3 members
+2025-12-10 21:38:10,119 - Alice_5000 - DEBUG - Is member of 1b18fb09: True
+2025-12-10 21:38:22,325 - Alice_5000 - DEBUG - Sent group msg to Bob_5001 at port 5001
+2025-12-10 21:38:22,325 - Alice_5000 - DEBUG - Sent group msg to Charlie_5002 at port 5002
+2025-12-10 21:38:22,325 - Alice_5000 - DEBUG - Group message sent to 2 members
+2025-12-10 21:38:28,408 - Alice_5000 - DEBUG - Is member of 1b18fb09: True

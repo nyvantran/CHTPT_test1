@@ -1,0 +1,14 @@
+2025-12-11 20:49:51,974 - Charlie_5002 - INFO - Starting Charlie on port 5002
+2025-12-11 20:49:51,976 - Charlie_5002 - INFO - Network started on port 5002
+2025-12-11 20:49:51,977 - Charlie_5002 - INFO - Device discovery started
+2025-12-11 20:49:53,089 - Charlie_5002 - INFO - Device found: Bob
+2025-12-11 20:49:53,089 - Charlie_5002 - INFO - Device found: Alice
+2025-12-11 20:49:55,281 - Charlie_5002 - INFO - Device found: Diana
+2025-12-11 20:51:12,451 - Charlie_5002 - DEBUG - Sent group info to Bob_5001 at port 5001
+2025-12-11 20:51:12,451 - Charlie_5002 - DEBUG - Sent group info to Alice_5000 at port 5000
+2025-12-11 20:51:12,451 - Charlie_5002 - INFO - Created group: 2342354 with 3 members
+2025-12-11 20:51:23,739 - Charlie_5002 - DEBUG - Is member of d2ca427a: True
+2025-12-11 20:51:34,455 - Charlie_5002 - DEBUG - Sent group msg to Bob_5001 at port 5001
+2025-12-11 20:51:34,455 - Charlie_5002 - DEBUG - Sent group msg to Alice_5000 at port 5000
+2025-12-11 20:51:34,455 - Charlie_5002 - DEBUG - Group message sent to 2 members
+2025-12-11 20:51:40,212 - Charlie_5002 - DEBUG - Is member of d2ca427a: True

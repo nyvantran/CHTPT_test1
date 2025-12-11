@@ -1,0 +1,17 @@
+2025-12-11 20:49:47,970 - Alice_5000 - INFO - Starting Alice on port 5000
+2025-12-11 20:49:47,973 - Alice_5000 - INFO - Network started on port 5000
+2025-12-11 20:49:47,974 - Alice_5000 - INFO - Device discovery started
+2025-12-11 20:49:50,969 - Alice_5000 - INFO - Device found: Bob
+2025-12-11 20:49:52,978 - Alice_5000 - INFO - Device found: Charlie
+2025-12-11 20:49:55,280 - Alice_5000 - INFO - Device found: Diana
+2025-12-11 20:51:12,451 - Alice_5000 - INFO - Joined group: 2342354 (3 members)
+2025-12-11 20:51:12,451 - Alice_5000 - DEBUG - Group members: {'Charlie_5002': 5002, 'Bob_5001': 5001, 'Alice_5000': 5000}
+2025-12-11 20:51:23,739 - Alice_5000 - DEBUG - Sent group msg to Charlie_5002 at port 5002
+2025-12-11 20:51:23,750 - Alice_5000 - DEBUG - Sent group msg to Bob_5001 at port 5001
+2025-12-11 20:51:23,750 - Alice_5000 - DEBUG - Group message sent to 2 members
+2025-12-11 20:51:34,455 - Alice_5000 - DEBUG - Is member of d2ca427a: True
+2025-12-11 20:51:40,212 - Alice_5000 - DEBUG - Is member of d2ca427a: True
+2025-12-11 20:51:51,900 - Alice_5000 - INFO - Joined group: 56r8u56e7i (3 members)
+2025-12-11 20:51:51,900 - Alice_5000 - DEBUG - Group members: {'Diana_5003': 5003, 'Alice_5000': 5000, 'Bob_5001': 5001}
+2025-12-11 20:52:04,010 - Alice_5000 - DEBUG - Is member of a8d8fc1c: True
+2025-12-11 20:52:30,575 - Alice_5000 - DEBUG - Is member of a8d8fc1c: True

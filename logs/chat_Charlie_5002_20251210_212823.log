@@ -1,0 +1,28 @@
+2025-12-10 21:28:25,302 - Charlie_5002 - INFO - Starting chat application for Charlie on port 5002
+2025-12-10 21:28:25,304 - Charlie_5002 - INFO - Network started on port 5002
+2025-12-10 21:28:25,304 - Charlie_5002 - INFO - Device discovery started
+2025-12-10 21:28:26,303 - Charlie_5002 - DEBUG - Received from Alice: discovery
+2025-12-10 21:28:26,303 - Charlie_5002 - INFO - Device found: Alice
+2025-12-10 21:28:26,305 - Charlie_5002 - DEBUG - Received from Bob: discovery
+2025-12-10 21:28:26,306 - Charlie_5002 - INFO - Device found: Bob
+2025-12-10 21:28:26,412 - Charlie_5002 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:28:26,412 - Charlie_5002 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:28:39,165 - Charlie_5002 - INFO - Manual device scan triggered
+2025-12-10 21:28:39,281 - Charlie_5002 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:28:39,281 - Charlie_5002 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:28:41,303 - Charlie_5002 - DEBUG - Received from Alice: discovery
+2025-12-10 21:28:41,305 - Charlie_5002 - DEBUG - Received from Bob: discovery
+2025-12-10 21:28:41,419 - Charlie_5002 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:28:41,419 - Charlie_5002 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:28:47,234 - Charlie_5002 - DEBUG - Private to Alice_5000: 1234
+2025-12-10 21:28:56,303 - Charlie_5002 - DEBUG - Received from Alice: discovery
+2025-12-10 21:28:56,306 - Charlie_5002 - DEBUG - Received from Bob: discovery
+2025-12-10 21:28:56,413 - Charlie_5002 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:28:56,413 - Charlie_5002 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:28:56,987 - Charlie_5002 - DEBUG - Received from Alice: private_message
+2025-12-10 21:29:03,406 - Charlie_5002 - DEBUG - Received from Bob: private_message
+2025-12-10 21:29:11,304 - Charlie_5002 - DEBUG - Received from Alice: discovery
+2025-12-10 21:29:11,306 - Charlie_5002 - DEBUG - Received from Bob: discovery
+2025-12-10 21:29:11,418 - Charlie_5002 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:29:11,418 - Charlie_5002 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:29:19,691 - Charlie_5002 - INFO - Closing application

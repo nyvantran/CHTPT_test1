@@ -1,0 +1,75 @@
+2025-12-10 21:29:27,208 - Alice_5000 - INFO - Starting chat application for Alice on port 5000
+2025-12-10 21:29:27,210 - Alice_5000 - INFO - Network started on port 5000
+2025-12-10 21:29:27,211 - Alice_5000 - INFO - Device discovery started
+2025-12-10 21:29:30,224 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:29:30,224 - Alice_5000 - INFO - Device found: Bob
+2025-12-10 21:29:32,262 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:29:32,264 - Alice_5000 - INFO - Device found: Charlie
+2025-12-10 21:29:34,366 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:29:34,366 - Alice_5000 - INFO - Device found: Diana
+2025-12-10 21:29:43,322 - Alice_5000 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:29:43,322 - Alice_5000 - DEBUG - Received from Diana: discovery_response
+2025-12-10 21:29:43,322 - Alice_5000 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:29:45,224 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:29:47,264 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:29:49,366 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:29:58,313 - Alice_5000 - DEBUG - Received from Diana: discovery_response
+2025-12-10 21:29:58,313 - Alice_5000 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:29:58,313 - Alice_5000 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:30:00,225 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:30:02,264 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:30:04,366 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:30:07,528 - Alice_5000 - DEBUG - Received from Bob: text
+2025-12-10 21:30:13,317 - Alice_5000 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:30:13,317 - Alice_5000 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:30:13,317 - Alice_5000 - DEBUG - Received from Diana: discovery_response
+2025-12-10 21:30:14,781 - Alice_5000 - DEBUG - Received from Bob: private_message
+2025-12-10 21:30:15,225 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:30:17,265 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:30:19,367 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:30:28,325 - Alice_5000 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:30:28,325 - Alice_5000 - DEBUG - Received from Diana: discovery_response
+2025-12-10 21:30:28,325 - Alice_5000 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:30:30,226 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:30:32,265 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:30:34,367 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:30:39,355 - Alice_5000 - INFO - Created group: test (a6376dd1)
+2025-12-10 21:30:43,329 - Alice_5000 - DEBUG - Received from Diana: discovery_response
+2025-12-10 21:30:43,329 - Alice_5000 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:30:43,329 - Alice_5000 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:30:45,226 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:30:47,266 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:30:49,367 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:30:53,778 - Alice_5000 - DEBUG - Received from Bob: group_message
+2025-12-10 21:30:58,321 - Alice_5000 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:30:58,321 - Alice_5000 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:30:58,321 - Alice_5000 - DEBUG - Received from Diana: discovery_response
+2025-12-10 21:31:00,227 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:31:02,266 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:31:04,368 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:31:13,329 - Alice_5000 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:31:13,329 - Alice_5000 - DEBUG - Received from Diana: discovery_response
+2025-12-10 21:31:13,329 - Alice_5000 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:31:14,056 - Alice_5000 - DEBUG - Received from Charlie: group_message
+2025-12-10 21:31:15,227 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:31:17,267 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:31:19,368 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:31:28,329 - Alice_5000 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:31:28,329 - Alice_5000 - DEBUG - Received from Diana: discovery_response
+2025-12-10 21:31:28,329 - Alice_5000 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:31:30,227 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:31:32,267 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:31:34,368 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:31:43,320 - Alice_5000 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:31:43,320 - Alice_5000 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:31:43,320 - Alice_5000 - DEBUG - Received from Diana: discovery_response
+2025-12-10 21:31:45,228 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:31:47,267 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:31:49,369 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:31:58,317 - Alice_5000 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:31:58,317 - Alice_5000 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:31:58,317 - Alice_5000 - DEBUG - Received from Diana: discovery_response
+2025-12-10 21:32:00,228 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:32:02,267 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:32:04,369 - Alice_5000 - DEBUG - Received from Diana: discovery
+2025-12-10 21:32:10,733 - Alice_5000 - INFO - Closing application

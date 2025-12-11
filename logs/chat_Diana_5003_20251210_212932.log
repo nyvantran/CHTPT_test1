@@ -1,0 +1,75 @@
+2025-12-10 21:29:33,363 - Diana_5003 - INFO - Starting chat application for Diana on port 5003
+2025-12-10 21:29:33,365 - Diana_5003 - INFO - Network started on port 5003
+2025-12-10 21:29:33,365 - Diana_5003 - INFO - Device discovery started
+2025-12-10 21:29:34,476 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:29:34,476 - Diana_5003 - INFO - Device found: Charlie
+2025-12-10 21:29:34,477 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:29:34,477 - Diana_5003 - INFO - Device found: Alice
+2025-12-10 21:29:34,498 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:29:34,498 - Diana_5003 - INFO - Device found: Bob
+2025-12-10 21:29:43,211 - Diana_5003 - DEBUG - Received from Alice: discovery
+2025-12-10 21:29:45,224 - Diana_5003 - DEBUG - Received from Bob: discovery
+2025-12-10 21:29:47,264 - Diana_5003 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:29:49,475 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:29:49,475 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:29:49,475 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:29:58,212 - Diana_5003 - DEBUG - Received from Alice: discovery
+2025-12-10 21:30:00,225 - Diana_5003 - DEBUG - Received from Bob: discovery
+2025-12-10 21:30:02,264 - Diana_5003 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:30:04,473 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:30:04,473 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:30:04,473 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:30:07,528 - Diana_5003 - DEBUG - Received from Bob: text
+2025-12-10 21:30:13,213 - Diana_5003 - DEBUG - Received from Alice: discovery
+2025-12-10 21:30:15,225 - Diana_5003 - DEBUG - Received from Bob: discovery
+2025-12-10 21:30:17,265 - Diana_5003 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:30:19,480 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:30:19,481 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:30:19,481 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:30:28,213 - Diana_5003 - DEBUG - Received from Alice: discovery
+2025-12-10 21:30:30,226 - Diana_5003 - DEBUG - Received from Bob: discovery
+2025-12-10 21:30:32,265 - Diana_5003 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:30:34,477 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:30:34,478 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:30:34,478 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:30:43,213 - Diana_5003 - DEBUG - Received from Alice: discovery
+2025-12-10 21:30:45,226 - Diana_5003 - DEBUG - Received from Bob: discovery
+2025-12-10 21:30:47,266 - Diana_5003 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:30:49,479 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:30:49,479 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:30:49,479 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:30:58,214 - Diana_5003 - DEBUG - Received from Alice: discovery
+2025-12-10 21:31:00,227 - Diana_5003 - DEBUG - Received from Bob: discovery
+2025-12-10 21:31:02,266 - Diana_5003 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:31:04,473 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:31:04,473 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:31:04,473 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:31:13,215 - Diana_5003 - DEBUG - Received from Alice: discovery
+2025-12-10 21:31:15,227 - Diana_5003 - DEBUG - Received from Bob: discovery
+2025-12-10 21:31:17,267 - Diana_5003 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:31:19,480 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:31:19,481 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:31:19,481 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:31:28,215 - Diana_5003 - DEBUG - Received from Alice: discovery
+2025-12-10 21:31:30,227 - Diana_5003 - DEBUG - Received from Bob: discovery
+2025-12-10 21:31:32,150 - Diana_5003 - DEBUG - Received from Bob: group_create
+2025-12-10 21:31:32,150 - Diana_5003 - INFO - Joined group: test2
+2025-12-10 21:31:32,267 - Diana_5003 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:31:34,482 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:31:34,482 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:31:34,482 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:31:43,215 - Diana_5003 - DEBUG - Received from Alice: discovery
+2025-12-10 21:31:45,228 - Diana_5003 - DEBUG - Received from Bob: discovery
+2025-12-10 21:31:45,555 - Diana_5003 - DEBUG - Received from Bob: group_message
+2025-12-10 21:31:47,267 - Diana_5003 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:31:49,475 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:31:49,475 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:31:49,475 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:31:58,216 - Diana_5003 - DEBUG - Received from Alice: discovery
+2025-12-10 21:31:59,184 - Diana_5003 - DEBUG - Group acd9c9c4: 23412345
+2025-12-10 21:32:00,228 - Diana_5003 - DEBUG - Received from Bob: discovery
+2025-12-10 21:32:02,267 - Diana_5003 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:32:04,482 - Diana_5003 - DEBUG - Received from Bob: discovery_response
+2025-12-10 21:32:04,482 - Diana_5003 - DEBUG - Received from Alice: discovery_response
+2025-12-10 21:32:04,482 - Diana_5003 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 21:32:09,012 - Diana_5003 - INFO - Closing application

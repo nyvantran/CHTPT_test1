@@ -1,0 +1,279 @@
+2025-12-10 20:49:30,231 - Bob_5001 - INFO - Starting chat application for Bob on port 5001
+2025-12-10 20:49:30,233 - Bob_5001 - INFO - Network started on port 5001
+2025-12-10 20:49:30,234 - Bob_5001 - INFO - Device discovery started
+2025-12-10 20:49:30,235 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:30,235 - Bob_5001 - INFO - Device found: Alice
+2025-12-10 20:49:30,235 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:49:30,277 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:30,278 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:30,279 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:30,661 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:30,662 - Bob_5001 - INFO - Device found: Charlie
+2025-12-10 20:49:30,663 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:35,109 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:49:35,109 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:49:35,234 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:35,234 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:35,235 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:49:35,235 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:35,236 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:35,236 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:35,237 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:35,237 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:35,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:35,662 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:35,663 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:40,110 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:49:40,110 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:49:40,235 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:40,236 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:40,236 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:49:40,237 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:40,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:40,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:40,240 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:40,240 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:40,240 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:40,663 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:40,664 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:45,110 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:49:45,111 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:49:45,235 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:45,235 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:45,236 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:49:45,236 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:45,237 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:45,237 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:45,238 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:45,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:45,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:45,663 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:45,663 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:50,110 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:49:50,111 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:49:50,235 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:50,235 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:49:50,236 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:50,237 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:50,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:50,240 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:50,240 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:50,240 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:50,241 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:50,663 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:50,663 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:55,111 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:49:55,111 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:49:55,236 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:49:55,236 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:55,238 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:55,238 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:55,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:55,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:55,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:49:55,240 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:55,241 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:49:55,664 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:49:55,664 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:00,111 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:00,112 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:00,236 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:00,236 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:00,237 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:00,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:00,241 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:00,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:00,243 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:00,243 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:00,244 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:00,664 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:00,664 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:05,111 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:05,112 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:05,237 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:05,237 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:05,237 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:05,238 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:05,238 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:05,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:05,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:05,240 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:05,241 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:05,664 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:05,664 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:10,112 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:10,112 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:10,237 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:10,237 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:10,237 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:10,238 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:10,238 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:10,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:10,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:10,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:10,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:10,664 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:10,665 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:15,112 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:15,113 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:15,237 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:15,237 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:15,237 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:15,238 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:15,238 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:15,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:15,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:15,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:15,241 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:15,665 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:15,666 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:20,113 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:20,113 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:20,238 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:20,238 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:20,238 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:20,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:20,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:20,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:20,240 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:20,241 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:20,241 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:20,666 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:20,666 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:25,113 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:25,114 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:25,238 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:25,238 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:25,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:25,240 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:25,240 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:25,241 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:25,241 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:25,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:25,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:25,666 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:25,667 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:30,113 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:30,114 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:30,238 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:30,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:30,239 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:30,239 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:30,240 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:30,240 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:30,241 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:30,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:30,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:30,666 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:30,667 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:35,114 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:35,115 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:35,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:35,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:35,239 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:35,241 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:35,241 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:35,242 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:35,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:35,243 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:35,244 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:35,667 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:35,668 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:40,114 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:40,115 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:40,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:40,240 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:40,240 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:40,241 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:40,241 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:40,242 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:40,243 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:40,243 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:40,244 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:40,667 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:40,667 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:45,114 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:45,115 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:45,239 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:45,240 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:45,240 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:45,241 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:45,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:45,242 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:45,243 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:45,243 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:45,243 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:45,668 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:45,669 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:46,596 - Bob_5001 - DEBUG - Received from Alice: private_message
+2025-12-10 20:50:46,597 - Bob_5001 - DEBUG - Received from Alice: private_message
+2025-12-10 20:50:50,115 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:50,116 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:50,240 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:50,240 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:50,241 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:50,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:50,243 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:50,244 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:50,244 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:50,245 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:50,245 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:50,669 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:50,669 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:55,115 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:55,116 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:50:55,240 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:55,240 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:55,240 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:50:55,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:55,242 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:55,243 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:55,243 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:50:55,244 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:55,244 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:50:55,669 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:55,669 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:50:56,098 - Bob_5001 - DEBUG - Received from Alice: private_message
+2025-12-10 20:50:56,099 - Bob_5001 - DEBUG - Received from Alice: private_message
+2025-12-10 20:51:00,115 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:00,116 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:00,241 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:00,242 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:00,242 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:51:00,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:00,243 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:00,244 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:00,244 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:00,244 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:00,245 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:00,669 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:51:00,670 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:51:05,116 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:05,117 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:05,242 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:51:05,242 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:05,242 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:05,245 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:05,245 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:05,245 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:05,246 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:05,246 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:05,246 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:05,669 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:51:05,670 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:51:10,116 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:10,117 - Bob_5001 - DEBUG - Received from Alice: discovery
+2025-12-10 20:51:10,241 - Bob_5001 - DEBUG - Sent: discover
+2025-12-10 20:51:10,241 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:10,242 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:10,242 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:10,244 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:10,245 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:10,245 - Bob_5001 - DEBUG - Received from Alice: discovery_response
+2025-12-10 20:51:10,246 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:10,246 - Bob_5001 - DEBUG - Received from Charlie: discovery_response
+2025-12-10 20:51:10,670 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:51:10,672 - Bob_5001 - DEBUG - Received from Charlie: discovery
+2025-12-10 20:51:11,097 - Bob_5001 - INFO - Closing application
+2025-12-10 20:51:11,097 - Bob_5001 - INFO - Device discovery stopped
+2025-12-10 20:51:11,097 - Bob_5001 - INFO - Network stopped

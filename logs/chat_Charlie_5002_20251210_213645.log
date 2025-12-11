@@ -1,0 +1,13 @@
+2025-12-10 21:36:45,694 - Charlie_5002 - INFO - Starting Charlie on port 5002
+2025-12-10 21:36:45,697 - Charlie_5002 - INFO - Network started on port 5002
+2025-12-10 21:36:45,698 - Charlie_5002 - INFO - Device discovery started
+2025-12-10 21:36:46,813 - Charlie_5002 - INFO - Device found: Bob
+2025-12-10 21:36:46,814 - Charlie_5002 - INFO - Device found: Alice
+2025-12-10 21:36:48,559 - Charlie_5002 - INFO - Device found: Diana
+2025-12-10 21:37:57,838 - Charlie_5002 - INFO - Joined group: 1234 (3 members)
+2025-12-10 21:37:57,838 - Charlie_5002 - DEBUG - Group members: {'Alice_5000': 5000, 'Bob_5001': 5001, 'Charlie_5002': 5002}
+2025-12-10 21:38:10,130 - Charlie_5002 - DEBUG - Is member of 1b18fb09: True
+2025-12-10 21:38:22,325 - Charlie_5002 - DEBUG - Is member of 1b18fb09: True
+2025-12-10 21:38:28,408 - Charlie_5002 - DEBUG - Sent group msg to Alice_5000 at port 5000
+2025-12-10 21:38:28,408 - Charlie_5002 - DEBUG - Sent group msg to Bob_5001 at port 5001
+2025-12-10 21:38:28,408 - Charlie_5002 - DEBUG - Group message sent to 2 members

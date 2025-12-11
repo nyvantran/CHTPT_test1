@@ -1,0 +1,17 @@
+2025-12-10 21:15:27,721 - Alice_5000 - INFO - Starting chat application for Alice on port 5000
+2025-12-10 21:15:27,723 - Alice_5000 - INFO - Network started on port 5000
+2025-12-10 21:15:27,724 - Alice_5000 - INFO - Device discovery started
+2025-12-10 21:15:27,724 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:15:28,774 - Alice_5000 - DEBUG - Received from Bob: discovery
+2025-12-10 21:15:28,774 - Alice_5000 - INFO - Device found: Bob
+2025-12-10 21:15:29,708 - Alice_5000 - DEBUG - Received from Charlie: discovery
+2025-12-10 21:15:29,708 - Alice_5000 - INFO - Device found: Charlie
+2025-12-10 21:15:37,725 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:15:47,725 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:15:57,725 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:16:07,726 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:16:07,727 - Alice_5000 - INFO - Device lost: Bob
+2025-12-10 21:16:17,726 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:16:27,727 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:16:37,727 - Alice_5000 - DEBUG - Sent: discover
+2025-12-10 21:16:47,728 - Alice_5000 - DEBUG - Sent: discover

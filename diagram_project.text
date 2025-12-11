@@ -1,0 +1,15 @@
+lan_chat/
+├── core/
+│   ├── __init__.py
+│   ├── network.py      # Xử lý mạng
+│   ├── discovery.py    # Dò tìm máy
+│   ├── message.py      # Định dạng tin nhắn
+│   └── group.py        # Quản lý nhóm
+├── ui/
+│   ├── __init__.py
+│   └── gui.py          # Giao diện
+├── utils/
+│   ├── __init__.py
+│   └── logger.py       # Ghi log lỗi
+├── main.py
+└── requirements.txt

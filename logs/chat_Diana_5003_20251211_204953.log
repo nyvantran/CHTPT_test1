@@ -1,0 +1,11 @@
+2025-12-11 20:49:54,276 - Diana_5003 - INFO - Starting Diana on port 5003
+2025-12-11 20:49:54,279 - Diana_5003 - INFO - Network started on port 5003
+2025-12-11 20:49:54,280 - Diana_5003 - INFO - Device discovery started
+2025-12-11 20:49:55,387 - Diana_5003 - INFO - Device found: Charlie
+2025-12-11 20:49:55,387 - Diana_5003 - INFO - Device found: Alice
+2025-12-11 20:49:55,413 - Diana_5003 - INFO - Device found: Bob
+2025-12-11 20:51:51,900 - Diana_5003 - DEBUG - Sent group info to Alice_5000 at port 5000
+2025-12-11 20:51:51,900 - Diana_5003 - DEBUG - Sent group info to Bob_5001 at port 5001
+2025-12-11 20:51:51,900 - Diana_5003 - INFO - Created group: 56r8u56e7i with 3 members
+2025-12-11 20:52:04,009 - Diana_5003 - DEBUG - Is member of a8d8fc1c: True
+2025-12-11 20:52:30,575 - Diana_5003 - DEBUG - Is member of a8d8fc1c: True
