@@ -1,6 +1,0 @@
-2025-12-11 20:45:40,077 - Bob_5001 - INFO - Starting Bob on port 5001
-2025-12-11 20:45:40,079 - Bob_5001 - INFO - Network started on port 5001
-2025-12-11 20:45:40,079 - Bob_5001 - INFO - Device discovery started
-2025-12-11 20:45:41,187 - Bob_5001 - INFO - Device found: Alice
-2025-12-11 20:45:43,133 - Bob_5001 - INFO - Device found: Charlie
-2025-12-11 20:45:45,269 - Bob_5001 - INFO - Device found: Diana

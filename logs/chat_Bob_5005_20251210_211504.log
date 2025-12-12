@@ -1,9 +1,0 @@
-2025-12-10 21:15:05,244 - Bob_5005 - INFO - Starting chat application for Bob on port 5005
-2025-12-10 21:15:05,247 - Bob_5005 - INFO - Network started on port 5005
-2025-12-10 21:15:05,247 - Bob_5005 - INFO - Device discovery started
-2025-12-10 21:15:05,248 - Bob_5005 - DEBUG - Sent: discover
-2025-12-10 21:15:05,248 - Bob_5005 - DEBUG - Received from Alice: discovery_response
-2025-12-10 21:15:05,248 - Bob_5005 - INFO - Device found: Alice
-2025-12-10 21:15:06,194 - Bob_5005 - DEBUG - Received from Charlie: discovery
-2025-12-10 21:15:06,194 - Bob_5005 - INFO - Device found: Charlie
-2025-12-10 21:15:15,247 - Bob_5005 - DEBUG - Sent: discover
